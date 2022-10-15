@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm abbeynet77, A Google Certified Data Analyst.</h1>
+<h1 align="center">Hi 👋, I'm Abiodun Onadeji, A Google Certified Data Analyst.</h1>
 <h3 align="center">I'm passionate about providing value through analytics and data visualization to solve problems</h3>
 
 - 🌱 I’m improving my skills daily **in SQL, Excel, R & Power Bi**
